@@ -8,6 +8,10 @@
 
 This project consist in the data analysis of the sales of an independent gaming company, specifically for the Heroes of Pymoli.
 
+## Data
+
+The data use in this analysis can be retrieved from https://tec.bootcampcontent.com/Tecnologico-de-Monterrey-Coding-Boot-Camp/tdm-mxc-data-pt-12-2020-u-c/-/tree/master/week-4-pandas/homework/Instructions/HeroesOfPymoli/Resources\purchase_data.csv
+
 ## Data Analysis
 
 Based on the information gather provided, there are 576 players that had purchase in the game with a Total Revenue of $2,379.77 in 780 transactions. 
