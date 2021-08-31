@@ -25,7 +25,3 @@ Based on the information gather provided, there are 576 players that had purchas
 ### Limitants
 
 * The dataset provided does not include a date, so it will be important to have this parameter so the company can identify when is the best time to sell; this information could be interesting to present to future sponsors.
-
-### Copyright
-
-Trilogy Education Services © 2019. All Rights Reserved.
